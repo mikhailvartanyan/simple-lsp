@@ -8,6 +8,7 @@
 *.so
 *.dylib
 log.txt
+bin/
 
 # Test binary, built with `go test -c`
 *.test
@@ -17,9 +18,6 @@ log.txt
 coverage.*
 *.coverprofile
 profile.cov
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
 
 # Go workspace file
 go.work
